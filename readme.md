@@ -1,4 +1,5 @@
-Platformer Game 
+									Platformer Game 
+
 
 How to run this game:
 ->Clone this repo
